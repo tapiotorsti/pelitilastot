@@ -1,0 +1,45 @@
+@import '../../assets/styles/config';
+
+.item {
+    display: flex;
+    border-bottom: 1px solid $item-border;
+    color: $item-text;
+}
+
+.item_data {
+    flex: 1;
+    display: table-column ;
+    grid-template-columns: 1fr 1fr;
+    padding: $item-padding;
+}
+
+.item_amount, .item_timespan, .item_average {
+    text-align: right;
+}
+
+.item_type, .item_amount {
+    font-weight: bold;
+    color: $item-text-strong;
+}
+
+.item_win {
+    color: #00cc00;
+    font-size: 5rem;
+    font-weight: bold;
+    position: relative;
+    right: 50px;
+}
+
+.item_loss {
+    color:#e60000;
+    font-size: 5rem;
+    font-weight: bold;
+    position: relative;
+    right: 60px;
+}
+
+
+
+
+
+

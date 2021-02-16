@@ -1,0 +1,31 @@
+$container-padding: 2rem;
+
+$header-background: #1a0600;
+$header-text: #ffffff;
+$header-text-shadow: 1.5px 1.5px #660066;
+$header-height: 3rem;
+$header-fontsize: 1.75rem;
+
+$scrollbar-track: #ffffff;
+$scrollbar-thumb: #660066;
+$scrollbar-width: 0.5rem;
+
+$item-border: #BADDFE;
+$item-text: #1a001a;
+$item-text-strong: #000000;
+$item-padding: 0.75rem;
+$item-edit-background: #ac00e6;
+$item-edit-text: #ff00ff;
+$item-edit-width: 2rem;
+
+$menu-background: #000000;
+$menu-text: #ffffff;
+$menu-height: $header-height;
+
+$form-item-margin: 0.5rem 0.3rem;
+$form-input-border: #660066;
+$form-input-radius: 0.5rem;
+$form-input-padding: 0.2rem;
+$form-input-fontsize: 1.2rem;
+$form-label-fontsize: 1rem;
+$form-label-margin-bottom: 0.5rem;
