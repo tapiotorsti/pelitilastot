@@ -1,0 +1,1 @@
+Startup on sovelluksen sisäänkirjautumissivu, jossa on sovelluksen logo sekä teksti joka kuvaa sovelluksen tarkoituksen. Ainoa sisäänkirjautumistapa tällä hetkellä on Google-tunnukset.

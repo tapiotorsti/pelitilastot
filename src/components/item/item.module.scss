@@ -1,6 +1,9 @@
 @import '../../assets/styles/config';
 
+
 .item {
+    background-color: #660666;
+    border-radius: 0.5rem;
     display: flex;
     border-bottom: 1px solid $item-border;
     color: $item-text;
@@ -22,22 +25,21 @@
     color: $item-text-strong;
 }
 
-.item_win {
-    color: #00cc00;
-    font-size: 5rem;
+.item_winOrLoss {
+    font-size: 2.5rem;
     font-weight: bold;
     position: relative;
-    right: 50px;
-}
-
-.item_loss {
-    color:#e60000;
-    font-size: 5rem;
-    font-weight: bold;
-    position: relative;
+    margin-top: 2.3rem;
     right: 60px;
 }
 
+.item_edit a {
+    color: $item-edit-background;
+}
+
+.item_edit a:hover {
+    color: #330033;
+}
 
 
 

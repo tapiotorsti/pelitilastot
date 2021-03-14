@@ -2,12 +2,24 @@
 
 .header {
     background-color: $header-background;
-    color: $header-text;
     max-height: $header-height;
     min-height: $header-height;
     font-size: $header-fontsize;
     display: flex;
-    justify-content: space-evenly;
-    align-items: flex-start;
     text-shadow: $header-text-shadow;
 }
+
+.header_Add {
+    position: relative;
+    left: 330px;
+}
+
+.header_logo {
+    position: relative;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+

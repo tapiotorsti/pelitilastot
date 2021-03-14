@@ -24,11 +24,11 @@
 }
 
 .uibutton--primary {
-    background-color: #0285ee;
+    background-color: #660066;
     color: #ffffff;
 }
 .uibutton--primary:active {
-    background-color: #65b4ff;
+    background-color: #ac00e6;
 }
 
 .uibutton--secondary {

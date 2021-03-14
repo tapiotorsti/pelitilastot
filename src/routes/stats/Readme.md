@@ -1,0 +1,1 @@
+Käyttäjän lisäämät kdr ja date tiedot näkyvät Stats-komponentissa pylväsdiagrammimuodossa.
